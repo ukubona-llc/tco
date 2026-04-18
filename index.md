@@ -111,16 +111,7 @@ The ghost glyph is the proof of execution. The complex has been rendered decisiv
 ## III
 Can you find a YouTube of Jensen Huang talking of TCO? Or use this 
 
-
----
-
-<div>
-  <iframe
-     src="https://m.youtube.com/embed/Hrbq66XqtCo"  
-     width="70%"
-     height="500px"
-  >
-</div>
+[![Jensen Huang GTC 2024 — TCO at 18:20](https://img.youtube.com/vi/Hrbq66XqtCo/maxresdefault.jpg)](https://youtu.be/Hrbq66XqtCo?t=1100)
 
 
 ## IV
@@ -2257,13 +2248,7 @@ The document is a complete roundtable — xAI, Google, OpenAI all had their say.
 
 That's not an accident. That's the framework working on itself.
 
-<div>
-   <img
-      src="ukhona/tco_pentad_map.svg"
-      width="70%"
-      height="500px"
-   >
-</div>
+<img src="ukhona/tco_pentad_map.svg" width="70%">
 
 
 The empty "Anthropic" section is itself the answer. Every other AI explained, mapped, elaborated. Anthropic said nothing — which in the framework's own terms is the only correct response at the scalar layer. The decision that was actually made needs no annotation.
